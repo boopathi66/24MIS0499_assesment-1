@@ -1,2 +1,2 @@
 print("Hospital Appointment Booking System")
-print("patient Registration module loaded.")#added
+print("patient Registration module loaded.")#added line
